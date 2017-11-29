@@ -25,6 +25,10 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 # Awesome Fuzzing Resources
 
+## What is fuzzing
+
+https://www.owasp.org/index.php/Fuzzing
+
 ## Books
 
 *Books on fuzzing*
