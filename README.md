@@ -102,8 +102,6 @@ https://www.owasp.org/index.php/Fuzzing
 
 *Tutorials and blogs which explain methodology, techniques and best practices of fuzzing*
 
-### [2016 articles]
-
 [Effective File Format Fuzzing](http://j00ru.vexillium.org/slides/2016/blackhat.pdf) - Mateusz “j00ru” Jurczyk @ Black Hat Europe 2016, London
 
 [A year of Windows kernel font fuzzing Part-1 the results](http://googleprojectzero.blogspot.in/2016/06/a-year-of-windows-kernel-font-fuzzing-1_27.html) - Amazing article by Google's Project Zero, describing what it takes to do fuzzing and create fuzzers.
@@ -174,6 +172,8 @@ https://www.corelan.be/index.php/2013/02/26/root-cause-analysis-memory-corruptio
 [Fuzzing Perl/XS modules with AFL](https://medium.com/@dgryski/fuzzing-perl-xs-modules-with-afl-4bfc2335dd90)
 
 [How to fuzz a server with American Fuzzy Lop](https://www.fastly.com/blog/how-fuzz-server-american-fuzzy-lop/) - by Jonathan Foote
+
+[Fuzzing with AFL Workshop - a set of challenges on real vulnerabilities](https://github.com/ThalesIgnite/afl-training)
 
 ##### libFuzzer Fuzzer related tutorials
 
